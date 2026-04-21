@@ -67,16 +67,18 @@ function App() {
 
   return (
     <>
-      <header className="header">
-        <div className="brand"><div className="logo-hover"></div></div>
-        <nav>
-          <a href="#home">Home</a>
-          <a href="#gallery">Gallery</a>
-          <a href="#memberships">Memberships</a>
-          <a href="https://www.equaldist.com/">Merch</a>
-          <a href="#contact">Contact</a>
-        </nav>
-      </header>
+<header className="header">
+  <div className="brand">
+    <img src="/pb-logo.png" alt="Peninsula Barbell Logo" className="logo-hover" />
+  </div>
+  <nav>
+    <a href="#home">Home</a>
+    <a href="#gallery">Gallery</a>
+    <a href="#memberships">Memberships</a>
+    <a href="https://www.equaldist.com/">Merch</a>
+    <a href="#contact">Contact</a>
+  </nav>
+</header>
 
       <section className="hero" id="home">
         <div className="hero-content">
