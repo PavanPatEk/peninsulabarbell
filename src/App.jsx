@@ -129,7 +129,7 @@ function App() {
       <section className="section" id="contact">
         <div className="section-title">CONTACT US</div>
         <div className="contact-grid">
-          <a href="https://mail.google.com/mail/?view=cm&fs=1&to=Peninsulabarbellssf@gmail.com" target="_blank" rel="noopener noreferrer" className="brand-card gmail"><SiGmail className="brand-icon" /><span>EMAIL US</span></a>
+          <a href="https://mail.google.com/mail/?view=cm&fs=1&to=adrianggar1@gmail.com" target="_blank" rel="noopener noreferrer" className="brand-card gmail"><SiGmail className="brand-icon" /><span>EMAIL US</span></a>
           <a href="https://instagram.com/peninsulabarbellssf" target="_blank" rel="noreferrer" className="brand-card instagram"><SiInstagram className="brand-icon" /><span>FOLLOW US</span></a>
         </div>
         <div className="map-container">
